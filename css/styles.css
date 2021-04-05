@@ -1,0 +1,24 @@
+.logo {
+  color: #2196f3;
+}
+.all_logo {
+  color: black;
+  width: 145px;
+  height: 31px;
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: bold;
+  text-decoration: none;
+}
+.navigation {
+  color: #212121;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  letter-spacing: 0.02em;
+}
+.contacts {
+  color: #757575;
+}
